@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450" width="800" height="450" fill="none">
+  <!-- Background -->
+  <rect width="800" height="450" fill="#0B0F17"/>
+  <rect x="20" y="20" width="760" height="410" rx="16" fill="#111827" stroke="#374151" stroke-width="2"/>
+
+  <!-- Browser Header -->
+  <rect x="20" y="20" width="760" height="44" rx="16" fill="#1F2937"/>
+  <rect x="20" y="52" width="760" height="12" fill="#1F2937"/>
+  <circle cx="48" cy="42" r="5" fill="#EF4444"/>
+  <circle cx="66" cy="42" r="5" fill="#F59E0B"/>
+  <circle cx="84" cy="42" r="5" fill="#10B981"/>
+  <rect x="110" y="32" width="280" height="20" rx="6" fill="#374151"/>
+  <text x="122" y="46" font-family="'Rubik', sans-serif" font-size="11" fill="#9CA3AF" font-weight="500">analytics-cloud.luxonixstacks.internal/impact</text>
+
+  <!-- Left Navigation Column -->
+  <rect x="20" y="64" width="160" height="366" fill="#161E2E" stroke="#374151" stroke-width="1"/>
+  <rect x="40" y="90" width="120" height="14" rx="4" fill="#FFFFFF"/>
+  <rect x="40" y="124" width="100" height="10" rx="3" fill="#4B5563"/>
+  <rect x="40" y="152" width="110" height="10" rx="3" fill="#4B5563"/>
+  <rect x="40" y="180" width="95" height="10" rx="3" fill="#4B5563"/>
+
+  <!-- Gauges & Summary Cards -->
+  <rect x="204" y="88" width="260" height="140" rx="12" fill="#1F2937" stroke="#374151" stroke-width="1"/>
+  <text x="224" y="116" font-family="'Rubik', sans-serif" font-size="12" fill="#9CA3AF" font-weight="600">IMPACT INDEX</text>
+  <text x="224" y="156" font-family="'Rubik', sans-serif" font-size="32" fill="#FFFFFF" font-weight="800">94.8%</text>
+  <text x="224" y="180" font-family="'Rubik', sans-serif" font-size="11" fill="#10B981" font-weight="600">+30% operational velocity</text>
+  <circle cx="410" cy="148" r="32" stroke="#374151" stroke-width="8" fill="none"/>
+  <circle cx="410" cy="148" r="32" stroke="#FFFFFF" stroke-width="8" stroke-dasharray="160" stroke-dashoffset="30" stroke-linecap="round" fill="none"/>
+
+  <rect x="484" y="88" width="272" height="140" rx="12" fill="#1F2937" stroke="#374151" stroke-width="1"/>
+  <text x="504" y="116" font-family="'Rubik', sans-serif" font-size="12" fill="#9CA3AF" font-weight="600">DYNAMIC SURVEY RESPONSES</text>
+  <text x="504" y="156" font-family="'Rubik', sans-serif" font-size="32" fill="#FFFFFF" font-weight="800">1.24M</text>
+  <text x="504" y="180" font-family="'Rubik', sans-serif" font-size="11" fill="#60A5FA" font-weight="600">Multilingual Real-Time Pipeline</text>
+
+  <!-- Lower Section: Bar Chart & Data Streams -->
+  <rect x="204" y="248" width="552" height="160" rx="12" fill="#1F2937" stroke="#374151" stroke-width="1"/>
+  <text x="224" y="278" font-family="'Rubik', sans-serif" font-size="13" fill="#FFFFFF" font-weight="600">Real-Time Survey Analytics & Aggregation</text>
+  
+  <!-- Bar chart bars -->
+  <rect x="240" y="340" width="24" height="48" rx="4" fill="#374151"/>
+  <rect x="280" y="310" width="24" height="78" rx="4" fill="#4B5563"/>
+  <rect x="320" y="325" width="24" height="63" rx="4" fill="#374151"/>
+  <rect x="360" y="295" width="24" height="93" rx="4" fill="#6B7280"/>
+  <rect x="400" y="315" width="24" height="73" rx="4" fill="#4B5563"/>
+  <rect x="440" y="280" width="24" height="108" rx="4" fill="#9CA3AF"/>
+  <rect x="480" y="265" width="24" height="123" rx="4" fill="#E5E7EB"/>
+  <rect x="520" y="250" width="24" height="138" rx="4" fill="#FFFFFF"/>
+  <rect x="560" y="270" width="24" height="118" rx="4" fill="#E5E7EB"/>
+  <rect x="600" y="290" width="24" height="98" rx="4" fill="#9CA3AF"/>
+  <rect x="640" y="275" width="24" height="113" rx="4" fill="#D1D5DB"/>
+  <rect x="680" y="255" width="24" height="133" rx="4" fill="#FFFFFF"/>
+
+  <line x1="224" y1="388" x2="736" y2="388" stroke="#374151"/>
+</svg>
+
